@@ -15,7 +15,7 @@
   
 <h3> My Redux Apps: </h3>
 <ul>
-  <li><a href="https://kubaturek.github.io/goit-react-hw-06-phonebook/"></a></li>
+  <li><a href="https://kubaturek.github.io/goit-react-hw-06-phonebook/"></a>Phonebook</li>
 </ul>
 <h3> My React Apps: </h3>
 <ul>
@@ -28,7 +28,7 @@
 </ul>
 <h3> My JavaScript Group project: </h3>
 <ul>
-<li><a href="https://karolinazinczuk.github.io/team-project-filmoteka/">Filmoteka</a></li>
+:film_strip:<li><a href="https://karolinazinczuk.github.io/team-project-filmoteka/">Filmoteka</a></li>
 </ul>
 
 
