@@ -2,15 +2,14 @@
 
 - 🔭 I’m currently learning Redux ...
 - 📫 How to reach me:  <a href="https://www.linkedin.com/in/jakub-t-800648151">Linkedin Profile</a>
-- <b>Technologies I am using:</b><div style.font>
-  <li>HTML</li>
-  <li>CSS</li>
+- <b>Technologies I am using:</b>
+  <p>HTML</p>
+  <p>CSS</p>
   <li>SASS</li>
   <li>BEM</li>
   <li>JavaScript</li>
   <li>React</li>
-  <li>Redux</li></div>
-  
+  <li>Redux</li>
   
 <h3> My Redux Apps: </h3>
 <ul>
