@@ -11,5 +11,8 @@
   <li>React</li>
   <li>Redux</li>
   </ul>
+  
+<h3> My JavaScript Group project: </h3>
+<a href="https://karolinazinczuk.github.io/team-project-filmoteka/">Filmoteka</a>
 
 
