@@ -15,16 +15,16 @@
   
 <h3> My Redux Apps: </h3>
 <ul>
-  <li><a href="https://kubaturek.github.io/goit-react-hw-06-phonebook/"></a>Phonebook</li>
+  <li><a href="https://kubaturek.github.io/goit-react-hw-06-phonebook/">:ledger: Phonebook</a></li>
 </ul>
 <h3> My React Apps: </h3>
 <ul>
-  <li><a href="https://kubaturek.github.io/goit-react-hw-04-images/">Images Finder</a></li>
-  <li><a href="https://kubaturek.github.io/goit-react-hw-05-movies/">Movies Finder</a></li>
+  <li><a href="https://kubaturek.github.io/goit-react-hw-04-images/">:camera: Images Finder</a></li>
+  <li><a href="https://kubaturek.github.io/goit-react-hw-05-movies/">:film_projector: Movies Finder</a></li>
 </ul>
 <h3> My JavaScript Apps </h3>
 <ul>
-<li><a href="https://kubaturek.github.io/goit-js-hw-10/">Country Finder</a></li>
+<li><a href="https://kubaturek.github.io/goit-js-hw-10/">:earth_americas: Country Finder</a></li>
 </ul>
 <h3> My JavaScript Group project: </h3>
 <ul>
