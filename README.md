@@ -23,8 +23,12 @@
   <li><a href="https://kubaturek.github.io/goit-react-hw-05-movies/">Movies Finder</a></li>
 </ul>
 <h3> My JavaScript Apps </h3>
+<ul>
 <li><a href="https://kubaturek.github.io/goit-js-hw-10/">Country Finder</a></li>
+</ul>
 <h3> My JavaScript Group project: </h3>
+<ul>
 <li><a href="https://karolinazinczuk.github.io/team-project-filmoteka/">Filmoteka</a></li>
+</ul>
 
 
