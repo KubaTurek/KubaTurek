@@ -28,7 +28,7 @@
 </ul>
 <h3> My JavaScript Group project: </h3>
 <ul>
-:film_strip:<li><a href="https://karolinazinczuk.github.io/team-project-filmoteka/">Filmoteka</a></li>
+<li><a href="https://karolinazinczuk.github.io/team-project-filmoteka/">:film_strip: Filmoteka</a></li>
 </ul>
 
 
