@@ -13,9 +13,11 @@
   </ul>
   
   
- <h3> My React Apps: </h3>
-<a href="https://kubaturek.github.io/goit-react-hw-04-images/">Images Finder</a>
-<a href="https://kubaturek.github.io/goit-react-hw-05-movies/">Movies Finder</a>
+<h3> My React Apps: </h3>
+<ul>
+  <li><a href="https://kubaturek.github.io/goit-react-hw-04-images/">Images Finder</a></li>
+  <li><a href="https://kubaturek.github.io/goit-react-hw-05-movies/">Movies Finder</a></li>
+</ul>
 
 <h3> My JavaScript Apps </h3>
 <a href="https://kubaturek.github.io/goit-js-hw-10/">Country Finder</a>
