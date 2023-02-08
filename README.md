@@ -3,8 +3,8 @@
 - 🔭 I’m currently learning Redux ...
 - 📫 How to reach me:  <a href="https://www.linkedin.com/in/jakub-t-800648151">Linkedin Profile</a>
 - <b>Technologies I am using:</b>
-  <p>HTML</p>
-  <p>CSS</p>
+  <span>HTML</span>
+  <span>CSS</span>
   <li>SASS</li>
   <li>BEM</li>
   <li>JavaScript</li>
