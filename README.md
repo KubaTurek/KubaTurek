@@ -8,6 +8,7 @@
 <h3> My Redux Apps: </h3>
 <ul>
   <li><a href="https://kubaturek.github.io/goit-react-hw-06-phonebook/">:ledger: Phonebook</a></li>
+  <li><a href="https://kubaturek.github.io/goit-react-hw-08-phonebook/">:ledger: Phonebook + registration</a></li>
 </ul>
 <h3> My React Apps: </h3>
 <ul>
